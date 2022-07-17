@@ -1,1 +1,1 @@
-# std-no-std-template
+{{readme}}
