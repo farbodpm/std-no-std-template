@@ -4,3 +4,4 @@ cargo_generate_version = "0.15.2"
 [placeholders]
 name = { type="string", prompt="name for the crate?" }
 description = { type="string", prompt="Description for the crate?" }
+readme = { type="string", prompt="anything to add to read me?"}
